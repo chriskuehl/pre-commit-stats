@@ -9,7 +9,7 @@ The results of my crawling are checked in under `all_repos.json` (listing all
 public repos revealed by the search that use pre-commit) and `hook_users.json`
 (showing which repos use which particular hook).
 
-At the time of writing (January 2016), the most popular hooks are:
+At the time of writing (January 2017), the most popular hooks are:
 
 ```
 The most popular hooks are:
